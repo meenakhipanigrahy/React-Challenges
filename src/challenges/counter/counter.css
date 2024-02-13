@@ -1,0 +1,26 @@
+.counter-app {
+    text-align: center;
+}
+
+.show-counter {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.counter-buttons button {
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+    margin: 0px 0.5rem;
+}
+
+.reset-btn {
+    margin-top: 1rem;
+}
+
+.reset-btn button {
+    font-size: .8rem;
+    cursor: pointer;
+    padding: 0.5rem 2rem;
+}
